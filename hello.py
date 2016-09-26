@@ -1,9 +1,7 @@
 # Michael PArisi Presicce
 # Lab 5
 
-
-def greeting(msg):
-    print(str(msg))
+from helper import greeting
 
 
 if __name__ == '__main__':
